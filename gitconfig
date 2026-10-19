@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = be.lux@web.de
+	name = Benjamin Lux
